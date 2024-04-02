@@ -1,4 +1,4 @@
-﻿# Shiny v3 for .NET
+﻿# Shiny v3 for .NET for Ryan
 <img src="https://github.com/shinyorg/shiny/raw/master/art/logo.png" width="100" /> 
 
 Shiny is a cross platform framework designed to make working with device services and background processes easy, testable, and consistent while bringing
